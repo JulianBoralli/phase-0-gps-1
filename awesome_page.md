@@ -1,4 +1,4 @@
-# EVERYTHING THAT IS AWESOME.
+# EVERYTHING THAT IS AWESOME!
 
 ## Here are some awesome things:
 
