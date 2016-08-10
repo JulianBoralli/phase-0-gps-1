@@ -1,4 +1,4 @@
-# EVERYTHING THAT IS AWESOME
+# EVERYTHING THAT IS AWESOME.
 
 ## Here are some awesome things:
 
@@ -12,3 +12,5 @@ Necessary Code Block
 ```
 
 ![Cool People](Cool-people.jpg)
+
+Hello world
